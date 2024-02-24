@@ -1,0 +1,37 @@
+
+Some questions that you ask from ChatBot are:-
+
+["hi", "hey", "hello"],
+    ["ten colours", "ten colors", "write name of ten colors"],
+    ["sure", "yes", "no"],
+    ["are you genious", "are you nerd", "are you intelligent"],
+    ["i hate you", "i dont like you"],
+    ["how are you", "how is life", "how are things", "how are you doing"],
+    ["how is corona", "how is covid 19", "how is covid19 situation"],
+    ["what are you doing", "what is going on", "what is up"],
+    ["how old are you"],
+    ["who are you", "are you human", "are you bot", "are you human or bot"],
+    ["who created you", "who made you", "who is your creator"],
+  
+    [
+      "your name please",
+      "your name",
+      "may i know your name",
+      "what is your name",
+      "what call yourself"
+    ],
+    ["i love you"],
+    ["happy", "good", "fun", "wonderful", "fantastic", "cool", "very good"],
+    ["bad", "bored", "tired"],
+    ["help me", "tell me story", "tell me joke"],
+    ["ah", "ok", "okay", "nice", "welcome"],
+    ["thanks", "thank you"],
+    ["what should i eat today"],
+    ["bro"],
+    ["what", "why", "how", "where", "when"],
+    ["corona", "covid19", "coronavirus"],
+    ["you are funny"],
+    ["i dont know"],
+    ["boring"],
+    ["im tired"]
+

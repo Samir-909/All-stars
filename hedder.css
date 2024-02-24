@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    height: 20%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+  }
+  
+  .content {
+    padding-top: 80px; /* Adjust this value to match the height of your header */
+    /* This padding ensures that content doesn't start underneath the fixed header */
+  }
+  button{
+    height: max-content;
+    width: max-content;
+    background: #f3f3eb;
+    border: none;
+    border-radius: 7px;
+  }
